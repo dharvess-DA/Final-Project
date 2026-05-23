@@ -109,15 +109,14 @@ The Power BI dashboard includes:
 
 ---
 
-## ✅ Conclusion
-The Agricultural Price Analysis Dashboard successfully provides a comprehensive and interactive platform for analyzing agricultural commodity prices across different markets, states, and time periods. By integrating data visualization, trend analysis, geographic insights, and forecasting techniques, the project enables users to better understand market behavior and make informed decisions.
-
----
-
-
 ## 📷 Dashboard 
 <img width="425" height="475" alt="image" src="Agricultural Dashoboard.jpg" />
 
+
+---
+
+## ✅ Conclusion
+The Agricultural Price Analysis Dashboard successfully provides a comprehensive and interactive platform for analyzing agricultural commodity prices across different markets, states, and time periods. By integrating data visualization, trend analysis, geographic insights, and forecasting techniques, the project enables users to better understand market behavior and make informed decisions.
 
 ---
 
