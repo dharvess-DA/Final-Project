@@ -116,7 +116,7 @@ The Agricultural Price Analysis Dashboard successfully provides a comprehensive 
 
 
 ## 📷 Dashboard 
-<img width="350" height="450" alt="image" src="Agricultural Dashoboard.jpg" />
+<img width="425" height="475" alt="image" src="Agricultural Dashoboard.jpg" />
 
 
 ---
