@@ -118,7 +118,8 @@ The Agricultural Price Analysis Dashboard successfully provides a comprehensive 
 
 
 ## 📷 Dashboard 
-<img width="602" height="347" alt="image" src="https://github.com/user-attachments/assets/e65d9222-7ec1-423b-9f3f-95477797e541" />
+<img width="602" height="347" alt="image" src="Real-World Agricultural Price Data for Analysis Dashoboard.pdf" />
+
 
 ---
 
