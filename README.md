@@ -2,9 +2,7 @@
 # Real-World Agricultural Price Data for Analysis & Forecasting
 
 ## 📌 Project Overview
-The Agricultural Price Analysis Dashboard is a comprehensive data visualization and business intelligence tool designed to track, analyze, and forecast real-world agricultural commodity prices.
-
-The dashboard serves as a strategic tool to bridge the gap between volatile agricultural markets and informed decision-making, helping to mitigate financial risk and optimize supply chain logistics.
+The Agricultural Price Analysis Dashboard is a comprehensive data visualization and business intelligence tool designed to track, analyze, and forecast real-world agricultural commodity prices.The dashboard serves as a strategic tool to bridge the gap between volatile agricultural markets and informed decision-making, helping to mitigate financial risk and optimize supply chain logistics.
 
 ---
 
