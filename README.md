@@ -49,7 +49,7 @@ The Agricultural Price Analysis Dashboard is a comprehensive data visualization 
 - Matplotlib
 - Seaborn
 - Power BI
-- Excel
+- MS Excel
 - Google Colab
 
 ---
