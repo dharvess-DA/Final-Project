@@ -124,6 +124,6 @@ The Agricultural Price Analysis Dashboard successfully provides a comprehensive 
 ---
 
 ## 🔗 GitHub Repository
-[Project Repository Link](https://github.com/AhalyaAnbu/Main-Project)
+[Project Repository Link](https://github.com/dharvess-DA/Final-Project)
 
 ---
