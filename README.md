@@ -110,7 +110,7 @@ The Power BI dashboard includes:
 ---
 
 ## 📷 Dashboard 
-<img width="425" height="475" alt="image" src="Agricultural Dashoboard.jpg" />
+<img width="525" height="475" alt="image" src="Agricultural Dashoboard.jpg" />
 
 
 ---
